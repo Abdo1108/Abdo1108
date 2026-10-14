@@ -1,10 +1,10 @@
+
+
 ## 
 
 <h1 align="left">
 
   Abdelrahman Sayed
-
-  <img align="right" alt="Profile Views" src="https://komarev.com/ghpvc/?username=Abdo1108&style=flat-square&color=58a6ff">
 
 </h1>
 
@@ -59,32 +59,6 @@ I believe that becoming a great developer is a continuous journey of learning, p
 - 📖 **Beyond Coding:** Reading and reciting the Holy Quran.
 
 - 🚀 **Mindset:** Learn. Practice. Build. Improve.
-
----
-
-## 🛠️ Tools & Environment
-
-<p align="left">
-
-  <a href="https://code.visualstudio.com/">
-
-    <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="Visual Studio Code" title="Visual Studio Code" height="45">
-
-  </a>
-
-  <a href="https://github.com/">
-
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" title="GitHub" height="45">
-
-  </a>
-
-</p>
-
-<p>
-
-I'm currently using <b>Visual Studio Code</b> as my development environment and <b>GitHub</b> to document my progress as I learn.
-
-</p>
 
 ---
 
@@ -157,17 +131,27 @@ Outside of programming, I enjoy reading, expanding my knowledge, and reciting th
   <i>Keep Learning • Keep Building • Keep Growing 🚀</i>
 
 </p>
+
 <!--
+
 **Abdo1108/Abdo1108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
+
 - 🤔 I’m looking for help with ...
+
 - 💬 Ask me about ...
+
 - 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
+
 -->
